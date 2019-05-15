@@ -2,5 +2,6 @@
 @rem Restore dependencies for this project.
 @rem
 
-dotnet restore
+.paket\paket.exe install
+
 pause
